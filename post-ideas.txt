@@ -1,0 +1,79 @@
+process mapping techniques *worksheets
+- sticky note a process, special not of transitions/transforms between states
+    - does the data need to move, is this several transforms in the same place
+    - is this a complex step for a user or in systems
+    - does the data need to move or can it stay in place
+    - what is the user flow, for a persona, in a scenario and context
+    - architecture and ux come after
+
+Game loops & Gamification *worksheets
+- designing a game loop and gamification type work
+    - what is the goal
+    - who is the customer
+    - are the customers different in the loop
+    - defining a loop
+    - finding transition points
+        - buy in
+        - hardness wall
+        - continue play
+    - rewards
+        - leaderboards
+        - multiple point systems
+    - call backs, chests
+    - analytics
+    - testing
+
+Projects through Expectations & Change management *worksheets
+- Running a project dealing with people
+    - project scheduling
+    - project resourcing
+    - expecations of workers, leaders, customers
+    - fear and change in priorities, risks, changing systems, features
+
+What does containerisation mean for your org
+Will AWS cost more or less *worksheets
+What are the risks/rewards of cloud for my business *worksheets
+Picking Vendors *worksheets
+Agile or Prototype
+Agile vs shifting sands
+Finding core business, what do you own and not *worksheets
+
+Mapping Experiences the hard way
+- Eg over the phone or over chat to find the terrible points
+
+Affordance Design *worksheets
+- What could happen when i click this
+
+Learning NodeJS
+Learning Elixir
+Learning C# ASP
+Learning Angular
+
+The best technology is the one you can iterate
+What about scaling
+    - it isn't as bad as it seems or as early
+    - how to deal with it when starting from simple
+
+What are you optimising and trading for?
+    - code, cloud, etc
+
+When your team doesn't ask anything
+    - are they uninvolved?
+    - is it well explained and obvious?
+    - no buy in but grumble grumble
+
+Get that list off the computer already
+    - shared memory/working space on paper/whiteboard
+
+What are you trying to do?
+What doesn't make sense to you?
+What are your bigger goals?
+Who is the customer?
+How to ask and understand
+Specs vs Armies
+Does the customer want this?
+Who's KPI is it anyways
+    - all depts want something to improve the business KPI
+    - how to prioritise them
+
+
