@@ -76,4 +76,9 @@ Who's KPI is it anyways
     - all depts want something to improve the business KPI
     - how to prioritise them
 
+Quick reference sheets
+Security testing docker/containers/vm's
+Local Dev Env configuration
+SQL isn't scary
+Managing technical projects
 
